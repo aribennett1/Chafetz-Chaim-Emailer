@@ -9,7 +9,7 @@ This Google Apps Script automates the process of retrieving the next audio file 
 
 ## Usage
 
-Once the script is set up and configured, it will automatically run every night at 10:30. It will check for the next audio file in the sequence, attach any associated PDF chart, and send the email to the specified recipient.
+Once the script is set up and configured, it will automatically run every night at 10:30. It will check for the next audio file in the sequence, attach the associated jpg chart if necessary, and send the email to the specified recipient.
 
 ## Limitations
 
